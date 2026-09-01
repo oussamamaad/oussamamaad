@@ -4,11 +4,9 @@
 # 📊 Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=oussamamaad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💰 Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/usamaad) 
-
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oussamamaad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=oussamamaad&icon=0&)](https://visitcount.itsvg.in)
+## 💰 Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/usamaad)
+
