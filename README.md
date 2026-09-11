@@ -9,16 +9,16 @@
 
 ### 🧐 About Me
 
-- 👨‍💻 All of my projects are available at **[Private](Private)**
-- 📫 How to reach me: **uxmad@proton.me**
+- 👨‍💻 All of my projects are available is private 
+- 💌 Contact me: **uxmad@proton.me**
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/oussama_maad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  <a href="https://x.com/oussama_maad" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" />
   </a>
   <a href="https://discord.gg/4NEnD7Kpxy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
