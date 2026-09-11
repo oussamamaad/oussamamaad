@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=oussamamaad&label=Profile%20views&color=0e75b6&style=flat" alt="oussamamaad" />
   <a href="https://x.com/oussama_maad" target="_blank"><img src="https://img.shields.io/badge/Follow-oussama__maad-black?logo=x&style=flat" alt="oussama_maad" /></a>
 </p>
----
 
 ### 🧐 About Me
 
