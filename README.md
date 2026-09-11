@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://x.com/oussama_maad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" />
+    <img src="https://www.vecteezy.com/free-png/x-icon" alt="x" height="30" width="40" />
   </a>
   <a href="https://discord.gg/4NEnD7Kpxy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
