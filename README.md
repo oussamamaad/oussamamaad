@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are private
 - 💌 Contact me : **uxmad@proton.me**
-
+- 💵 Donating : **http://paypal.me/usamaad**
 ---
 
 ### 🛠️ Languages & Tools
