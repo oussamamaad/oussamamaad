@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OUSSAMA MAAD</h1>
+<h1 align="center">Hi 👋, I'm OUSSAMA</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussamamaad&label=Profile%20views&color=0e75b6&style=flat" alt="oussamamaad" />
