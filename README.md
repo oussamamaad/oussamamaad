@@ -1,14 +1,30 @@
-<h1 align="center">Hi 👋, I'm OUSSAMA</h1>
+
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVYEcDJ7eSMYhPzU4OYxswH2zVRjllGDW9wbjs8lyWA&s=10" alt="Profile Image" width="1190" height="200"/>
+
+
+<h1 align="center">Hi 👋, I'm OUSSAMA MAAD</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussamamaad&label=Profile%20views&color=0e75b6&style=flat" alt="oussamamaad" />
   <a href="https://x.com/oussama_maad" target="_blank"><img src="https://img.shields.io/badge/oussama__maad-black?logo=x&style=flat" alt="oussama_maad" /></a>
+
+
+
+
+
+
+
 </p>
+
+
+
+
+---
 
 ### 🧐 About Me
 
 - 👨‍💻 All of my projects are private
-- 💌 Contact me: **uxmad@proton.me**
+- 💌 Contact me : **uxmad@proton.me**
 
 ---
 
