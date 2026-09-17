@@ -1,5 +1,5 @@
 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVYEcDJ7eSMYhPzU4OYxswH2zVRjllGDW9wbjs8lyWA&s=10" alt="Profile Image" width="1190" height="200"/>
+ <img src="https://i.pinimg.com/736x/15/01/97/150197d44139e74f6d2ae38b8ef55415.jpg" alt="Profile Image" width="1190" height="200"/>
 
 
 <h1 align="center">Hi 👋, I'm OUSSAMA MAAD</h1>
