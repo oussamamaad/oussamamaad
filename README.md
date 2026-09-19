@@ -2,7 +2,7 @@
  <img src="https://i.pinimg.com/736x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg" alt="Profile Image" width="1190" height="200"/>
 
 
-<h1 align="center">Hi 👋, I'm OUSSAMA MAAD</h1>
+<h1 align="center">Hi 👋, I'm OUSSAMA</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussamamaad&label=Profile%20views&color=0e75b6&style=flat" alt="oussamamaad" />
